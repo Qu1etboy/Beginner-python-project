@@ -1,6 +1,6 @@
 # Beginner-python-project
 ## Installation
-Download the file and type `python [filename]` to run
+Download the file and type `python [filename]` to run in your cmd
 ## To do list
 - [x] 1. Sudoku solver
 - [x] 2. Hangman game
