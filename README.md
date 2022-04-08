@@ -1,7 +1,7 @@
 # Beginner-python-project
 ## To do list
 - [x] 1. Sudoku solver
-- [ ] 2. Hangman game
+- [x] 2. Hangman game
 - [ ] 3. Wordle
 - [ ] 4. Tic tac toe
 - [ ] 5. Calculator
